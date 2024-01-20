@@ -6,7 +6,7 @@ This website is a technical interview for a frontend developer.
 
 ## On the internet
 
- Open your browser and navigate to: https://lamountains.vercel.app
+ Open your browser and navigate to: https://lamountains-xi.vercel.app/
 
 ## Locally
 
